@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Never Gonna Give You Up",
+  "base_artist": "Rick Astley",
+  "createdAt": "2025-12-03T13:13:50.197760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Cossbysweater",
+      "has_synced": false,
+      "path": "select/01_Never_Gonna_Give_You_Up_Cossbysweater.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Musical Youth",
+      "has_synced": false,
+      "path": "select/02_Never_Gonna_Give_You_Up_Musical_Youth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/03_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/04_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never gonna give you up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/05_Never_gonna_give_you_up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NEVER GONNA GIVE YOU UP",
+      "artist": "倉木麻衣",
+      "has_synced": true,
+      "path": "select/06_NEVER_GONNA_GIVE_YOU_UP_倉木麻衣.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/07_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/08_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/09_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/10_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/11_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Sergio Mendes",
+      "has_synced": true,
+      "path": "select/12_Never_Gonna_Give_You_Up_Sergio_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Musical Youth",
+      "has_synced": true,
+      "path": "select/13_Never_Gonna_Give_You_Up_Musical_Youth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Barry White",
+      "has_synced": true,
+      "path": "select/14_Never_Gonna_Give_You_Up_Barry_White.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Eternal",
+      "has_synced": false,
+      "path": "select/15_Never_Gonna_Give_You_Up_Eternal.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "stories",
+      "has_synced": true,
+      "path": "select/16_Never_Gonna_Give_You_Up_stories.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "CAKE",
+      "has_synced": false,
+      "path": "select/17_Never_Gonna_Give_You_Up_CAKE.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Black Keys",
+      "has_synced": true,
+      "path": "select/18_Never_Gonna_Give_You_Up_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/19_Never_Gonna_Give_You_Up_Rick_Astley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Gonna_Give_You_Up_Rick_Astley.txt"
+    }
+  ]
+}
